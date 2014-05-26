@@ -1,0 +1,26 @@
+p {
+  margin: 3px 0 3px 0;
+}
+
+.Tree {
+  display: inline-block;
+  float:right;
+  overflow:auto;
+  width: 100px;
+}
+
+.interface {
+  display: inline-block;
+  float:right;
+}
+
+.heightOctTree, .heightOctTree p {
+  display: inline-block;
+}
+
+.Canvas {
+  display: inline-block;
+  width: 80%;
+  height: 80%;
+  background-size: auto;
+}
